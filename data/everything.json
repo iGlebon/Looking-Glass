@@ -1,8 +1,11 @@
 {
-"1": {
-        "99.84.140.147": {
+        "cloudc.one": {
+        "la.lg.cloudc.one": {
             "ipv4": {
-                "99.84.140.147": "1"
-                },
-            "ipv6": {}
-            }}
+                "173.82.220.148": "Portland, United States"
+            },
+            "ipv6": {
+                "2607:f130:0:ef::2": "Los Angeles, United States"
+            }
+        }
+    },
