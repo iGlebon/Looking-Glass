@@ -3,9 +3,5 @@
         "lg.buf1.cometvps.com": {
             "ipv4": {
                 "96.9.249.58": "Buffalo, United States"
-            },
-            "ipv6": {
-                "2602:ffc8:2:102::2": "Chicago, United States"
-          }
     }
 }
