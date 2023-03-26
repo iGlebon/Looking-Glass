@@ -2,25 +2,25 @@
     "cometvps.com": {
         "lg.buf1.cometvps.com": {
             "ipv4": {
-                "96.9.249.58": "Buffalo, United States"
+                "99.84.140.147": "Buffalo, United States"
             },
             "ipv6": {
-                "2602:ffc8:2:102::2": "Chicago, United States"
+                
             }
         },
         "lg.chi1.cometvps.com": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States"
+                "143.204.79.125": "Chicago, United States"
             },
             "ipv6": {
-                "2602:ffc8:1::2": "Chicago, United States"
+                
             }
         }
     },
     "cloudc.one": {
         "la.lg.cloudc.one": {
             "ipv4": {
-                "173.82.220.148": "Portland, United States"
+                "54.240.188.143": "Portland, United States"
             },
             "ipv6": {
                 "2607:f130:0:ef::2": "Los Angeles, United States"
