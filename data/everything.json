@@ -4,8 +4,6 @@
             "ipv4": {
                 "173.82.220.148": "Portland, United States"
             },
-            "ipv6": {
-                "2607:f130:0:ef::2": "Los Angeles, United States"
-            }
+            "ipv6": {}
         }
     }
