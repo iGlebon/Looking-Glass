@@ -1,27 +1,25 @@
 {
     "cometvps.com": {
-        "lg.buf1.cometvps.com": {
+        "1": {
             "ipv4": {
-                "96.9.249.58": "Buffalo, United States"
+                "99.84.140.147": "1"
             },
-            "ipv6": {
-                "2602:ffc8:2:102::2": "Chicago, United States"
+            
             }
         },
-        "lg.chi1.cometvps.com": {
+        "143.204.79.125": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States"
+                "143.204.79.125": "2"
             },
-            "ipv6": {
-                "2602:ffc8:1::2": "Chicago, United States"
+           
             }
         }
     },
     
         },
-        "speedtest-ams3.digitalocean.com": {
+        "54.240.188.143": {
             "ipv4": {
-                "178.62.216.76": "Amsterdam, Netherlands"
+                "54.240.188.143": "3"
             },
             "ipv6": {
                 "2a03:b0c0:2:d0::85:e001": "Amsterdam, Netherlands"
